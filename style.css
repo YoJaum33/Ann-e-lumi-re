@@ -18,7 +18,21 @@ body{
     display: flex;
    
 }
+.recherche{
 
+    background-color: #8F2527;
+    color: white;
+    border: groove 5px #8F2527;
+    padding: 8px;
+    border-radius: 0 10px 10px 10px;
+    width: 45%;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 520px;
+
+}
+.formulaire{
+    background-color: yellow;
 img{
 
     position: absolute;
