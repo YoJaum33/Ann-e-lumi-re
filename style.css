@@ -33,6 +33,7 @@ body{
 }
 .formulaire{
     background-color: yellow;
+}
 img{
 
     position: absolute;
@@ -40,3 +41,4 @@ img{
     height: 290x;
     left: 625px;
     top: 185px;
+    }
