@@ -1,0 +1,28 @@
+body{
+    background-image: url(fond.jpg);
+    margin: 0;
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    font-size: 80%;
+    color: white;
+    position: fixed;
+    bottom: 0;
+}
+
+body{
+
+    display: flex;
+   
+}
+
+img{
+
+    position: absolute;
+    width: 290px;
+    height: 290x;
+    left: 625px;
+    top: 185px;
