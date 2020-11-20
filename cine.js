@@ -43,4 +43,4 @@ document.querySelector("form").addEventListener("submit", (event) => {
 });
 
 
-document.querySelector("body > div:nth-of-type(3)").addEventListener("click",(event) => {document.getElementById("search").style.display == block;});
+document.querySelector("body > div:nth-of-type(3)").addEventListener("click",(event) => {document.getElementById("search").style.display == "block";});
