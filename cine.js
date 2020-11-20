@@ -41,3 +41,6 @@ document.querySelector("form").addEventListener("submit", (event) => {
   event.preventDefault(); // bloque l'envoi par défaut
   dbSearch(event.target[0].value); // récupère la valeur du premier élément et la transmet à notre fonction `dbSearch`
 });
+
+
+document.querySelector("body > div:nth-of-type(3)").addEventListener("click",(event) => {document.getElementById("search").style.display == block;});
