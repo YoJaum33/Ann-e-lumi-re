@@ -1,7 +1,7 @@
 "use strict";
 
 // définir votre clé d'accès à l'API de OMDb
-let APIkey = "";
+let APIkey = "d1a145f0";
 
 // création d'une fonction `dbSearch`
 let dbSearch = async function(movieTitle) {
