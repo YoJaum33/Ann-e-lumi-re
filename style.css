@@ -40,3 +40,25 @@ img{
     left: 625px;
     top: 185px;
 }
+
+.bouton{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: yellow;
+    position: absolute;
+    top: 60%;
+    left: 99%;
+    transform: translate(-50%,-50%);
+    cursor: pointer;
+    
+}
+
+@media screen and (min-width: 668px){
+
+    .recherche{
+        display: none;
+    }
